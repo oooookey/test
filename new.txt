@@ -1,2 +1,1 @@
-https://ihqu10cn4cf3cfv5a.com/api/v1/client/subscribe?token=5fed73ed86c5936ae0d3b41d446cb
-https://yun.xyz/api/v1/client/subscribe?token=347bf440e420d516e48d08d04470d
+123
